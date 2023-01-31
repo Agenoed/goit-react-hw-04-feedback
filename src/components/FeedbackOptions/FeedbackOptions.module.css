@@ -1,0 +1,15 @@
+.feedbackButton {
+  background-color: #ffffff;
+  cursor: pointer;
+  text-transform: capitalize;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+
+  margin-left: 5px;
+  border-radius: 5px;
+}
+
+.feedbackButton:hover {
+  background-color: lightblue;
+}
